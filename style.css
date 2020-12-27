@@ -1,0 +1,17 @@
+.titulo {
+    text-align: center;
+    background-color: black;
+    color: orange;
+    font-weight: bold;
+}
+
+img.img {
+    width: 100px;
+    height: 125px;
+}
+
+img.img_vcf {
+    width: 175px;
+    float: right;
+    margin-right: 50px;
+}
